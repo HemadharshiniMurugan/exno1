@@ -92,7 +92,7 @@ sns.boxplot(x='sepal_width',data=delid)
 ```
 ![ds11](https://github.com/HemadharshiniMurugan/exno1/assets/119404809/f92a2ad2-2b92-4ec6-96b3-233841e4751a)
 
-Z Score
+# Z Score
 ```
 import matplotlib.pyplot as plt
 import pandas as pd
